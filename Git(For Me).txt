@@ -1,0 +1,3 @@
+git add . #yapılan tüm değişiklikleri git'e yükler
+git commit -m "message" #yaptığın değişiklikleri anlatabileceğin mesaj kısmı
+git push . #yapılan tüm değişiklikleri github'a yükler.
